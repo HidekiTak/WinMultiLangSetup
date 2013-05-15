@@ -2,7 +2,7 @@ WinMultiLangSetup
 ======================
 Poor man's batch files to build multilang setup
  
-ƒ‰ƒCƒZƒ“ƒX
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 ----------
 Licensed under the [Apache License, Version 2.0][Apache]
  
