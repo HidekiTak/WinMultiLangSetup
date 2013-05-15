@@ -1,9 +1,9 @@
-: MakeSetupMultiLangMsi.bat ToBaseMsiFile
+: MakeSetupMultiLangMsi.bat [ToBaseMsiFile]
 
 @echo off
 setlocal
 
-SET SCRIPT_PATH=C:\Program Files\Microsoft Platform SDK\Samples\SysMgmt\Msi\Scripts\
+IF NOT DEFINED SCRIPT_PATH SET SCRIPT_PATH=C:\Program Files\Microsoft Platform SDK\Samples\SysMgmt\Msi\Scripts\
 
 set BaseDir=
 set BaseFn=
